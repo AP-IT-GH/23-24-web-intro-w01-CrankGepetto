@@ -4,12 +4,12 @@
 
 ### `index.html` maken
 
-- [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
-- [ ] Open het bestand.
+- [x] Maak een nieuw bestand genaamd `index.html` aan in deze map.
+- [x] Open het bestand.
 
 ### voorbeeld namaken
 
-- [ ] Maak het volgende voorbeeld na met behulp van HTML. Bedenk zelf welke elementen het meest geschikt zijn voor elk onderdeel.
+- [x] Maak het volgende voorbeeld na met behulp van HTML. Bedenk zelf welke elementen het meest geschikt zijn voor elk onderdeel.
   - **tip:** Het woord `HTML` staat in het voorbeeld onderlijnt in punten. Dit is een element om afkortingen weer te geven. Ga zelf op zoek naar het juiste element hiervoor!
   - **tip:** Gebruik websites als [w3schools](https://www.w3schools.com) of [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) om weinig bekende elementen op te zoeken. Uiteraard kan Google ook altijd helpen!
 

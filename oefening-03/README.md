@@ -4,8 +4,8 @@
 
 ### `index.html` maken
 
-- [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
-- [ ] Open het bestand.
+- [x] Maak een nieuw bestand genaamd `index.html` aan in deze map.
+- [x] Open het bestand.
 
 ### voorbeeld namaken
 
